@@ -1,0 +1,73 @@
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / Build
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Environment Variables / Secrets
+.env
+.env.*
+!.env.example
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ML / Data Science
+__pycache__/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# Large Data Files (keep raw datasets out of Git)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.feather
+*.zip
+
+# Model Experiments
+mlruns/
+wandb/
+lightning_logs/
+tensorboard/
+
+# Temporary Files
+*.tmp
+*.bak

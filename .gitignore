@@ -45,7 +45,6 @@ htmlcov/
 
 # ML / Data Science
 __pycache__/
-*.pkl
 *.pickle
 *.joblib
 *.h5

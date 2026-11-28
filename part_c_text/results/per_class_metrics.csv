@@ -1,0 +1,9 @@
+Model,Split,Class,Precision,Recall,F1,Support
+Logistic Regression,Validation,Negative,0.9067,0.8913,0.8989,4940
+Logistic Regression,Validation,Positive,0.8939,0.909,0.9014,4977
+Logistic Regression,Test,Negative,0.9051,0.8937,0.8994,4940
+Logistic Regression,Test,Positive,0.8958,0.907,0.9014,4977
+Linear SVM,Validation,Negative,0.9129,0.8828,0.8976,4940
+Linear SVM,Validation,Positive,0.8874,0.9164,0.9017,4977
+Linear SVM,Test,Negative,0.9135,0.8854,0.8993,4940
+Linear SVM,Test,Positive,0.8896,0.9168,0.903,4977

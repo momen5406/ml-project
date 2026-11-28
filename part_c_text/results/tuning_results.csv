@@ -1,0 +1,10 @@
+Model,C,Val Accuracy,Val Macro-F1
+Logistic Regression,0.01,0.8247,0.8242
+Logistic Regression,0.1,0.8679,0.8678
+Logistic Regression,1.0,0.8972,0.8972
+Logistic Regression,10.0,0.9002,0.9002
+Logistic Regression,100.0,0.8918,0.8918
+Linear SVM,0.01,0.8676,0.8674
+Linear SVM,0.1,0.8997,0.8996
+Linear SVM,1.0,0.8973,0.8973
+Linear SVM,10.0,0.8787,0.8787

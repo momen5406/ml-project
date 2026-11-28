@@ -1,0 +1,3 @@
+Model,Best C,Test Accuracy,Test Macro-F1
+Logistic Regression,10.0,0.9004,0.9004
+Linear SVM,0.1,0.9012,0.9011
